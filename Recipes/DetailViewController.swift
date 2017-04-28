@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  Recipes
 //
-//  Created by Jose Luis on 4/25/17.
+//  Created by Jose Luis on 4/25/17. jajajajaj
 //  Copyright © 2017 rdz_gall. All rights reserved.
 //
 
